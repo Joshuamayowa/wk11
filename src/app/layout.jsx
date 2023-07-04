@@ -1,6 +1,6 @@
 import Navbar from './components/Navbar'
 import './globals.css'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import { Fasthand } from 'next/font/google'
 
 const fast = Fasthand({ 
